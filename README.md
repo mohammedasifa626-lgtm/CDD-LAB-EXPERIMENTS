@@ -1,6 +1,7 @@
 # Collaborative Development and DevOps Lab Experiments
 
 Starter workspace for practising and documenting seven experiments:
+
 1. Git installation and configuration
 2. Clone, push, pull, fetch and synchronization
 3. Branching, merging, rebasing and conflict resolution
@@ -9,6 +10,16 @@ Starter workspace for practising and documenting seven experiments:
 6. Continuous integration with GitHub Actions
 7. Automated build and testing with GitHub Actions
 
-Work through each experiment yourself, replace notes with your actual observations, and add your own screenshots. Do not present sample output or another person's activity as your own.
+## Requirements
 
-Requirements: Git, a GitHub account, and Python 3.10+ for Experiments 6–7.
+- Git
+- GitHub account
+- Python 3.10 or newer
+
+## Project Structure
+
+Each experiment has its own folder containing commands, documentation, code or screenshots.
+
+## Learning
+
+Complete each experiment, record your actual observations, and add your own screenshots.
