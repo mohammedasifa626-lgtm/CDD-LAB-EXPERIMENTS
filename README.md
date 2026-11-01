@@ -23,3 +23,16 @@ Each experiment has its own folder containing commands, documentation, code or s
 ## Learning
 
 Complete each experiment, record your actual observations, and add your own screenshots.
+## Team Collaboration Strategy
+
+- Main branch: Stable project version.
+- Develop branch: Integration of ongoing work.
+- Feature branches: Individual tasks and improvements.
+- Pull requests: Review changes before merging.
+## Team Collaboration Strategy
+
+- Main: Stable production-ready code.
+- Develop: Integration branch for ongoing development.
+- Feature branches: Used for individual tasks.
+- Pull Requests: Used to review changes before merging.
+- CI Workflow: Automatically tests code changes.
