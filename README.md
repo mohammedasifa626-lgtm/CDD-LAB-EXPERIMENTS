@@ -23,3 +23,8 @@ Each experiment has its own folder containing commands, documentation, code or s
 ## Learning
 
 Complete each experiment, record your actual observations, and add your own screenshots.
+## Development Workflow
+
+This project uses Git for version control and GitHub for collaboration.
+
+GitHub Actions is configured to automatically run Python tests whenever changes are pushed to the main branch or a pull request is created.
